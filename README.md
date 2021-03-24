@@ -1,7 +1,5 @@
 ### Jon Grimes - @jonkgrimes
 
-![ProfileViews](https://immense-hollows-40381.herokuapp.com/profile.svg?q=1)
-
 Hello there! My name is Jon and I'm a Rubyist by trade with over 12 years experience building web applications.
 
 - 😄 Pronouns: He/him
