@@ -4,4 +4,4 @@ Hello there! My name is Jon and I'm a Rubyist by trade with over 15 years experi
 
 - 😄 Pronouns: He/him
 - 🔭 I’m currently working at [Conveyor](https://www.conveyor.com)
-- 🌱 I’m currently learning Rust and building my systems programming skills
+- 🌱 I’m currently learning [Zig](https://ziglang.org) and building my systems programming skills
